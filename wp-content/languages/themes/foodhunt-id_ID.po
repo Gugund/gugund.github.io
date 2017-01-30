@@ -1,0 +1,701 @@
+# Translation of FoodHunt in Indonesian
+# This file is distributed under the same license as the FoodHunt package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-08 08:29:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: FoodHunt\n"
+
+#. Theme Name of the plugin/theme
+msgid "FoodHunt"
+msgstr "FoodHunt"
+
+#. Description of the plugin/theme
+msgid "FoodHunt is modern style multi purpose theme specially focus for Restaurant websites. However, due to its flexibility and easiness it can be used to create any types of sites."
+msgstr "FoodHunt adalah tema serbaguna gaya modern fokus untuk website Restoran. Bagaimanapun, karena fleksibilitas dan kemudahannya bisa juga digunakan untuk membuat situs jenis lain."
+
+#: 404.php:24
+msgid "404"
+msgstr "404"
+
+#: 404.php:28
+msgid "Oops!!"
+msgstr "Ups!"
+
+#: 404.php:29
+msgid "Page Not Found"
+msgstr "Laman Tidak Ditemukan"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan pada &ldquo;%2$s&rdquo;"
+
+#: comments.php:42 comments.php:63
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:45 comments.php:66
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:46 comments.php:67
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: footer.php:43
+msgid "close me"
+msgstr "tutup"
+
+#: functions.php:49
+msgid "Primary Left Menu"
+msgstr "Menu Kiri Utama"
+
+#: functions.php:50
+msgid "Primary Right Menu"
+msgstr "Menu Kanan Utama"
+
+#: functions.php:51
+msgid "Social Menu"
+msgstr "Menu Sosial"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: header.php:60
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/admin/customize-controls.php:98
+msgid "Theme Info"
+msgstr "Info Tema"
+
+#: inc/admin/customize-controls.php:102
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/admin/customize-controls.php:106
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/admin/customize-controls.php:110
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/admin/customize-controls.php:114
+msgid "Rate this theme"
+msgstr "Nilailah tema ini"
+
+#: inc/customizer.php:27
+msgid "Contain all the Header related settings"
+msgstr "Berisi semua pengaturan terkait Header"
+
+#: inc/customizer.php:29
+msgid "Header Options"
+msgstr "Opsi Header"
+
+#: inc/customizer.php:38
+msgid "Display Latest post Titles in the Header Top Bar."
+msgstr "Tampilkan Judul pos Terbaru di Bar Atas Header."
+
+#: inc/customizer.php:39
+msgid "Header News"
+msgstr "Header Berita"
+
+#: inc/customizer.php:57
+msgid "Enable Header News"
+msgstr "Aktifkan Header Berita"
+
+#: inc/customizer.php:67 inc/foodhunt.php:97
+msgid "Special:"
+msgstr "Spesial:"
+
+#: inc/customizer.php:76
+msgid "Text before Post Titles:"
+msgstr "Teks sebelum Judul Pos:"
+
+#: inc/customizer.php:87
+msgid "Header is Sticky by default"
+msgstr "Header lengket secara default"
+
+#: inc/customizer.php:88
+msgid "Header Sticky Option"
+msgstr "Opsi Kelengketan Header"
+
+#: inc/customizer.php:105
+msgid "Check to make Header Non-sticky"
+msgstr "Centang untuk membuat Header Tidak Lengket"
+
+#: inc/customizer.php:116
+msgid "Header Logo"
+msgstr "Logo Header"
+
+#: inc/customizer.php:136
+msgid "Upload logo"
+msgstr "Unggah logo"
+
+#: inc/customizer.php:156
+msgid "Choose the required option"
+msgstr "Tentukan opsi yang diperlukan"
+
+#: inc/customizer.php:160
+msgid "Header Logo Only"
+msgstr "Logo Header Saja"
+
+#: inc/customizer.php:161
+msgid "Header Text Only"
+msgstr "Teks Header Saja"
+
+#: inc/customizer.php:162
+msgid "Show both Logo and Text"
+msgstr "Tampilkan keduanya Logo dan Teks"
+
+#: inc/customizer.php:163
+msgid "None"
+msgstr "None"
+
+#: inc/customizer.php:173
+msgid "Header Title Bar"
+msgstr "Bar Judul Header"
+
+#: inc/customizer.php:174
+msgid "Display image as background just below the main Menu on Home page, archive and single pages."
+msgstr "Tampilkan gambar sebagai latar belakang tepat dibawah menu utama pada laman Beranda, arsip dan laman tunggal."
+
+#: inc/customizer.php:194 inc/widgets.php:281 inc/widgets.php:466
+#: inc/widgets.php:609
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: inc/customizer.php:209
+msgid "Contain all the Slider related settings"
+msgstr "Berisi semua pengaturan terkait Slider"
+
+#: inc/customizer.php:211
+msgid "Slider Options"
+msgstr "Opsi Slider"
+
+#: inc/customizer.php:221
+msgid "Slider displays the Title, Content and Featured image of the page. The recommended size for slider image is 1920px by 1000px. Select the pages in the option provided below"
+msgstr "Slider menampilkan Judul, Konten dan Gambar Andalan sebuah laman. Ukuran gambar yang disarankan untuk slider 1920px x 1000px. Pilih laman pada opsi dibawah"
+
+#: inc/customizer.php:239
+msgid "Enable Slider"
+msgstr "Aktifkan Slider"
+
+#: inc/customizer.php:259
+msgid "Enter Icon Class"
+msgstr "Masukkan Class Ikon"
+
+#: inc/customizer.php:279
+msgid "Slide "
+msgstr "Slide"
+
+#: inc/customizer.php:293
+msgid "Option to hide the slider controls"
+msgstr "Opsi untuk menyembunyikan pengatur slider"
+
+#: inc/customizer.php:311
+msgid "Hide slider Left/Right Arrows"
+msgstr "Sembunyikan Panah Kiri/Kanan slider"
+
+#: inc/customizer.php:330
+msgid "Hide slider navigation Buttons"
+msgstr "Sembunyikan Tombol navigasi slider"
+
+#: inc/customizer.php:344
+msgid "Contain all the Design related settings"
+msgstr "Berisi semua pengaturan terkait Desain"
+
+#: inc/customizer.php:346
+msgid "Design Options"
+msgstr "Opsi Desain"
+
+#: inc/customizer.php:355
+msgid "Default layout"
+msgstr "Tata letak bawaan"
+
+#: inc/customizer.php:373
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search\tpage etc. The layout for a single post and page can be controlled from below options"
+msgstr "Pilih tata letak default. Tata letak ini akan berdampak di semua situs arsip, kategori, laman pencarian→ dll. Tata letak untuk pos dan laman tunggal bisa diatur dari opsi dibawah"
+
+#: inc/customizer.php:390
+msgid "Default layout for pages only"
+msgstr "Tata letak default untuk laman saja"
+
+#: inc/customizer.php:408
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is \tset for specific page"
+msgstr "Pilih tat aletak default untuk laman. Tata letak ini akan berdampak di seluruh laman kecuali tata letak unik di →   terapkan pada laman"
+
+#: inc/customizer.php:425
+msgid "Default layout for single posts only"
+msgstr "Tata letak default untuk pos saja"
+
+#: inc/customizer.php:443
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Pilih tata letak default untuk pos tunggal. Tata letak ini akan berdampak untuk semua pos tunggal kecuali tata letak unik diterapkan di pos tertentu."
+
+#: inc/customizer.php:458
+msgid "Primary color option"
+msgstr "Opsi warna utama"
+
+#: inc/customizer.php:470
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Berdampak untuk link, tombol dan banyak lagi. Tentukan warna yang cocok untuk situs Anda"
+
+#: inc/customizer.php:477
+msgid "Custom CSS"
+msgstr "Kustom CSS"
+
+#: inc/customizer.php:489
+msgid "Write your custom css"
+msgstr "Tulis kustom css Anda"
+
+#: inc/customizer.php:503
+msgid "Contain all Additional settings"
+msgstr "Berisi semua pengaturan Tambahan"
+
+#: inc/customizer.php:505
+msgid "Additional Options"
+msgstr "Opsi Tambahan"
+
+#: inc/customizer.php:515
+msgid "Display full content or short description/excerpt on the Posts Page"
+msgstr "Tampilkan konten penuh atau deskripsi singkat/kutipan pada Laman Pos"
+
+#: inc/customizer.php:532
+msgid "Choose to show Excerpt or Full Post"
+msgstr "Tentukan untuk menampilkan Kutipan atau Pos Penuh"
+
+#: inc/customizer.php:536
+msgid "Display Excerpt"
+msgstr "Tampilkan Kutipan"
+
+#: inc/customizer.php:537
+msgid "Display Full Content"
+msgstr "Tampilkan Konten Penuh"
+
+#: inc/customizer.php:548
+msgid "Hide specific or all the meta/information from the Blog posts and Single post"
+msgstr "Sembunyikan beberapa atau semua meta/informasi dari pos Blog dan Pos tunggal"
+
+#: inc/customizer.php:566
+msgid "Check to All the Meta."
+msgstr "Centang untuk semua meta."
+
+#: inc/customizer.php:585
+msgid "Check to hide Date."
+msgstr "Centang untuk menyembunyikan Tanggal."
+
+#: inc/customizer.php:604
+msgid "Check to hide Author."
+msgstr "Centang untuk menyembunyikan Penulis."
+
+#: inc/customizer.php:623
+msgid "Check to hide Comment."
+msgstr "Centang untuk menyembunyikan Komentar."
+
+#: inc/customizer.php:642
+msgid "Check to hide Category."
+msgstr "Centang untuk menyembunyikan Kategori."
+
+#: inc/customizer.php:661
+msgid "Check to hide Tags."
+msgstr "Centang untuk menyembunyikan Tag."
+
+#: inc/customizer.php:674
+msgid "Foodhunt Important Links"
+msgstr "Link Penting Foodhunt"
+
+#: inc/customizer.php:694
+msgid "Important Links"
+msgstr "Link Penting"
+
+#: inc/customizer.php:759
+msgid "View PRO version"
+msgstr "Lihat versi PRO"
+
+#: inc/foodhunt.php:183 inc/widgets.php:898
+msgid "Leave a comment"
+msgstr "Beri komentar"
+
+#: inc/foodhunt.php:183 inc/widgets.php:898
+msgid "Comment (1)"
+msgstr "Komentar (1)"
+
+#: inc/foodhunt.php:183 inc/widgets.php:898
+msgid "Comments (%)"
+msgstr "Komentar (%)"
+
+#: inc/foodhunt.php:188
+msgid ", "
+msgstr ","
+
+#: inc/foodhunt.php:350
+msgid "WordPress"
+msgstr "WordPress"
+
+#. #-#-#-#-#  foodhunt.pot (FoodHunt 1.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/foodhunt.php:352
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/foodhunt.php:354
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Hak Cipta &copy; %1$s %2$s."
+
+#: inc/foodhunt.php:354
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: inc/foodhunt.php:354
+msgid "Powered by %s"
+msgstr "Dipersembahkan oleh %s"
+
+#: inc/foodhunt.php:369 inc/foodhunt.php:371
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: inc/foodhunt.php:373
+msgid "Our Team Designation"
+msgstr "Penunjukkan Tim Kami"
+
+#: inc/foodhunt.php:383
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/foodhunt.php:388 inc/widgets.php:16
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/foodhunt.php:393 inc/widgets.php:26
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/foodhunt.php:398
+msgid "No Sidebar Full Width"
+msgstr "Lebar Penuh Tanpa Sidebar"
+
+#: inc/foodhunt.php:403
+msgid "No Sidebar Content Centered"
+msgstr "Konten Ditengah Tanpa Sidebar"
+
+#: inc/foodhunt.php:410
+msgid "team designation"
+msgstr "penunjukkan tim"
+
+#: inc/foodhunt.php:452
+msgid "Designation field for Team Member"
+msgstr "Kolom penunjukkan untuk Anggota Tim"
+
+#: inc/foodhunt.php:522
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/widgets.php:18
+msgid "Shows widgets at Right side."
+msgstr "Menampilkan widget di sisi Kanan."
+
+#: inc/widgets.php:28
+msgid "Shows widgets at Left side."
+msgstr "Menampilkan widget di sisi Kiri."
+
+#: inc/widgets.php:36
+msgid "Restaurant Template Sidebar"
+msgstr "Sidebar Template Restoran"
+
+#: inc/widgets.php:38
+msgid "Shows widgets On the Restaurant Template."
+msgstr "Menampilkan widget Pada Template Restoran."
+
+#: inc/widgets.php:47
+msgid "Footer Sidebar "
+msgstr "Sidebar Footer"
+
+#: inc/widgets.php:49
+msgid "Show widgets at Footer section."
+msgstr "Menampilkan widget di bagian Footer."
+
+#: inc/widgets.php:73
+msgid "Suitable for About Us page."
+msgstr "Cocok untuk laman Tentang Kami."
+
+#: inc/widgets.php:75
+msgid "TG: Featured Single Page"
+msgstr "TG: Laman Tunggal Andalan"
+
+#: inc/widgets.php:97 inc/widgets.php:253 inc/widgets.php:582
+#: inc/widgets.php:767 inc/widgets.php:947 inc/widgets.php:1076
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets.php:101 inc/widgets.php:257 inc/widgets.php:585
+#: inc/widgets.php:951 inc/widgets.php:1080
+msgid "Description:"
+msgstr "Deskripsi:"
+
+#: inc/widgets.php:104
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Pilih laman untuk tampilkan Judul, Kutipan dan Gambar andalan."
+
+#: inc/widgets.php:105
+msgid "Page"
+msgstr "Laman"
+
+#: inc/widgets.php:109 inc/widgets.php:443
+msgid "Button Text:"
+msgstr "Teks Tombol:"
+
+#: inc/widgets.php:114 inc/widgets.php:448
+msgid "Button Redirect Link:"
+msgstr "Link Pengarah Tombol:"
+
+#: inc/widgets.php:119 inc/widgets.php:474
+msgid "Button Icon Class:"
+msgstr "Tombol Ikon Class:"
+
+#: inc/widgets.php:126 inc/widgets.php:481
+msgid "For Icon Class <a href=\"%s\" target=\"_blank\">Refer here</a>"
+msgstr "Untuk Ikon Class <a href=\"%s\" target=\"_blank\">Lihat Disini</a>"
+
+#: inc/widgets.php:130
+msgid "Info: The Recommended size for featured image is 530px by 440px."
+msgstr "Info: Ukuran yang disarankan untuk gambar andalan adalah 530px x 440px."
+
+#: inc/widgets.php:131
+msgid "Note: Leave Button Redirect Link empty to redirect it to the respective page."
+msgstr "Catatan: Biarkan Link Pengarah Tombol Kosong untuk mengarahkan ke laman nya masing-masing."
+
+#: inc/widgets.php:228
+msgid "Display some pages as services."
+msgstr "Tampilkan beberapa laman sebagai layanan."
+
+#: inc/widgets.php:230
+msgid "TG: Service"
+msgstr "TG: Layanan"
+
+#: inc/widgets.php:249 inc/widgets.php:437 inc/widgets.php:578
+msgid "Widget SETTINGS :"
+msgstr "PENGATURAN Widget :"
+
+#: inc/widgets.php:261 inc/widgets.php:589 inc/widgets.php:955
+msgid "Number of pages to display:"
+msgstr "Jumlah laman yang ditampilkan:"
+
+#: inc/widgets.php:265
+msgid "Note: Create the pages and select Services Template to display Services pages. The Recommended size for featured image is 290px by 290px."
+msgstr "Catatan: Buatlah laman dan pilih Template Layanan untuk menampilkan laman Layanan. Ukuran yang disarankan untuk gambar andalan nya adalah 290px x 290px."
+
+#: inc/widgets.php:268 inc/widgets.php:453 inc/widgets.php:596
+msgid "DESIGN SETTINGS :"
+msgstr "PENGATURAN DESAIN :"
+
+#: inc/widgets.php:272 inc/widgets.php:457 inc/widgets.php:600
+msgid "Background Image:"
+msgstr "Gambar Latar Belakang:"
+
+#: inc/widgets.php:285 inc/widgets.php:470 inc/widgets.php:613
+msgid "Background Color:"
+msgstr "Warna Latar Belakang:"
+
+#: inc/widgets.php:289 inc/widgets.php:486 inc/widgets.php:617
+msgid "Note: Background image (if used) will override the background color."
+msgstr "Catatan: Gambar latar belakang (jika pakai) akan menimpa warna latar belakang."
+
+#: inc/widgets.php:390 inc/widgets.php:717 template-parts/content-search.php:43
+#: template-parts/content.php:54 template-parts/content.php:59
+msgid "Read More"
+msgstr "Selengkapnya"
+
+#: inc/widgets.php:413
+msgid "Use this widget to show the call to action section."
+msgstr "Gunakan widget ini untuk menampilkan bagian tombol tindakan."
+
+#: inc/widgets.php:415
+msgid "TG: Call To Action"
+msgstr "TG: Tombol Tindakan"
+
+#: inc/widgets.php:440
+msgid "Call to Action Main Text:"
+msgstr "Teks Utama Tombol Tindakan:"
+
+#: inc/widgets.php:555
+msgid "Show your Team Members."
+msgstr "Tampilkan Anggota Tim Anda."
+
+#: inc/widgets.php:557
+msgid "TG: Our Team"
+msgstr "TG: Tim Kami"
+
+#: inc/widgets.php:593
+msgid "Note: Create the pages and select Our Team Template to display Our Team pages. The Recommended size for featured image is 380px by 380px."
+msgstr "Catatan: Buatlah laman dan pilih Template Tim Kami untuk menampilkan laman Tim Kami. Ukuran yang disarankan untuk gambar andalan nya adalah 380px x 380px."
+
+#: inc/widgets.php:746
+msgid "Display latest posts or posts of specific category."
+msgstr "Tampilkan pos terbaru atau pos kategori tertentu."
+
+#: inc/widgets.php:748
+msgid "TG: Featured Posts"
+msgstr "TG: Pos Andalan"
+
+#: inc/widgets.php:770
+msgid "Description"
+msgstr "Deskripsi"
+
+#: inc/widgets.php:774
+msgid "Number of posts to display:"
+msgstr "Jumlah pos yang ditampilkan:"
+
+#: inc/widgets.php:779
+msgid "Show latest Posts"
+msgstr "Tampilkan Pos terbaru"
+
+#: inc/widgets.php:780
+msgid "Show posts from a category"
+msgstr "Tampilkan pos dari kategori"
+
+#: inc/widgets.php:784
+msgid "Select category"
+msgstr "Pilih kategori"
+
+#: inc/widgets.php:788
+msgid "Info: To display posts from specific category, select the Category in above radio option than select the category from the drop-down list."
+msgstr "Info: Untuk menampilkan dari kategori, pilih Kategori pada opsi radio diatas lalu pilih kategori dari daftar tarik turun."
+
+#: inc/widgets.php:930
+msgid "Display some pages as Portfolio or Gallery."
+msgstr "Tampilkan beberapa laman sebagai Galeri atau Portofolio."
+
+#: inc/widgets.php:932
+msgid "TG: Portfolio"
+msgstr "TG: Portofolio"
+
+#: inc/widgets.php:959
+msgid "Note: Create the pages and select Gallery Template to display Gallery pages. The Recommended size for featured image is 340px by 340px."
+msgstr "Catatan: Buatlah laman dan pilih Template Galeri untuk menampilkan laman Galeri. Ukuran yang disarankan untuk gambar andalan nya adalah 340px x 340px."
+
+#: inc/widgets.php:1056
+msgid "Show your Contact page."
+msgstr "Tampilkan Laman Kontan Anda."
+
+#: inc/widgets.php:1058
+msgid "TG: Contact Us"
+msgstr "TG: Kontak Kami"
+
+#: inc/widgets.php:1084
+msgid "Install the Contact Form 7 Plugin and paste the shortcode here:"
+msgstr "Pasang Plugin Contact Form 7 dan tempel potongan kode nya disini:"
+
+#: inc/widgets.php:1086
+msgid "Shortcode:"
+msgstr "Potongan kode:"
+
+#: inc/widgets.php:1091
+msgid "Select a Contact page:"
+msgstr "Pilih laman Kontak:"
+
+#: navigation.php:22
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: navigation.php:23
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:32
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:33
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: sidebar-left.php:19 sidebar.php:19
+msgid "Example Widget"
+msgstr "Contoh Widget"
+
+#: sidebar-left.php:20
+msgid "This is an example widget to show how the Left Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets is added than this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menampilkan bagaimana Sidebar Kiri terlihat. Anda dapat menambahkan kustom widget dari %slayar widget%s. Jika kustom widget ditambahkan maka ini akan ditimpa."
+
+#: sidebar.php:20
+msgid "This is an example widget to show how the Right Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets is added than this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menampilkan bagaimana Sidebar Kanan terlihat. Anda dapat menambahkan kustom widget dari %slayar widget%s. Jika kustom widget ditambahkan maka ini akan ditimpa."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertama Anda? <a href=\"%1$s\">Mulai disini</a>."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata kunci Anda. Silahkan coba lagi dengan kata kunci lain."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sepertinya kita tidak menemukan apa yang Adna cari. Mungkin pencarian bisa membantu."
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:52
+#: template-parts/content.php:63
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/content-slider.php:49
+msgid "Read more"
+msgstr "Selengkapnya"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Template"
+msgstr "Template Portofolio"
+
+#. Template Name of the plugin/theme
+msgid "Restaurant Template"
+msgstr "Template Restoran"
+
+#. Template Name of the plugin/theme
+msgid "Service Template"
+msgstr "Template Layanan"
+
+#. Template Name of the plugin/theme
+msgid "Our Team Template"
+msgstr "Template Tim Kami"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegrill.com/themes/foodhunt/"
+msgstr "http://themegrill.com/themes/foodhunt/"
+
+#. Author URI of the plugin/theme
+msgid "http://themegrill.com"
+msgstr "http://themegrill.com"
